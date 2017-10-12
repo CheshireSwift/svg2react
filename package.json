@@ -1,0 +1,26 @@
+{
+  "name": "svg2react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "svg2react": "index.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "change-case": "^3.0.1",
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.11.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
