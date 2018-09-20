@@ -16,7 +16,7 @@
     "lodash": "^4.17.4"
   },
   "devDependencies": {
-    "mocha": "^4.0.0"
+    "mocha": "^5.2.0"
   },
   "scripts": {
     "test": "mocha"
